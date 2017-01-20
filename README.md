@@ -8,5 +8,6 @@ Trying out Magit...
 Trying out Magit under Emacs --daemon
 And after reinserting yubikey
 And from the console?
+And after reinserting yubikey
 
 Copyright RonMeredith 2014
